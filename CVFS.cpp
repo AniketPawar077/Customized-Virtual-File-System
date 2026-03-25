@@ -883,6 +883,7 @@ int main()
             {
                 printf("There is no such command\n");
             }
+            
         } // End of else if 3
         else if(iCount == 4)
         {
@@ -892,6 +893,7 @@ int main()
         {
             printf("Command not found\n");
             printf("Please refer help option to get more information\n");
+            
         } // End of else
     } // End of while
 
